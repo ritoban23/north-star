@@ -1,4 +1,10 @@
+<div align="center">
+
+![North Star Logo](assets/northstar_logo.png)
+
 # Project: North Star
+
+</div>
 
 ## Description
 A CLI tool to keep track of your goals and activities or checkpoints related to them.
